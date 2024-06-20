@@ -24,42 +24,62 @@
 }
 
 .escola-imagem {
-    width: 22%;
-
+    width: 15%;
 }
 
 .escola {
-    background-image: linear-gradient(#072fe4, #004ff8);
+    background-image: linear-gradient(#0033ec,#062c96);
     color: #f7f7f7;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 29%px;
+    padding: 28%px;
 }
 
 .escola-titulo {
-    font-size: 49%px;
-    padding: 24px;
+    font-size: 29%px;
+    padding: 24%;
     text-align: center;
-}   
-    
-.estudante-imagem{
-    width: 10%;
 }
-    
- .estudante-icone{
-    width: 35px;
- }
-   
- .estudante-div{
-      text-align: center;
-      padding: 20px 20px;
-  }
+
+.estudante-imagem {
+    width: 6%;
+}
+
+.estudante-icone {
+    width: 28px;
+}
+
+.estudante-div {
+    text-align: center;
+    padding: 19px 19px;
+}
 
 .estudantes{
-
-
+   background-image: linear-gradient(#1287e6,#0804d6);
 }
+
+.estudante-titulo{
+    text-align: center;
+    padding: 30px 0;
+    font-size: 32px;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25px 25px 25px 25px;
+}
+
+.rodape{
+  background-color: #1267e6;
+   text-align: center;
+}
+
+.rodape-imagem{
+   width: 20%;
+}
+
+
 
 
 
